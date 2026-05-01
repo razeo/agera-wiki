@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+.conda/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.log
+*.json
+
+# Wiki-specific
+*.sample
+.session_log.json
+.ingest_processed.json
+.facts_log.json
+
+# Temporary/backup files
+*~
+*.bak
+*.tmp
+.cache/
+
+# Downloaded archives
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Backup copies
+*.backup
+*.old
+
+# Generator output (throwaway)
+tools/doo-registracija/output/
+
+# Large binary assets that don't belong in git (optional - uncomment if needed)
+# *.pdf
+# *.docx
+# *.doc
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Hermes Agent
+.hermes/
+voice-memos/

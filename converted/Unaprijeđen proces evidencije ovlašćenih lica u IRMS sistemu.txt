@@ -1,0 +1,18 @@
+﻿Unaprijeđen proces evidencije ovlašćenih lica u IRMS sistemu
+Od 1. aprila 2026. godine unaprijeđen je proces evidencije dodavanja, izmjene i ukidanja ovlašćenih lica u okviru IRMS sistema. Dodjela ovlašćenja u IRMS sistemu predstavlja elektronski mehanizam kojim odgovorno lice poreskog obveznika, ili drugo lice u izuzetnim slučajevima, omogućava trećem licu da u njegovo ime i za njegov račun preduzima određene radnje u sistemu.
+Podnošenje elektronskih registracionih zahtjeva u CRPS
+U slučaju kada je podnosilac zahtjeva rezident, odnosno lice evidentirano u Centralnom registru stanovništva, zahtjev za dodjelu, izmjenu ili ukidanje ovlašćenja može podnijeti putem portfolija poreskog obveznika (ukoliko je odgovorno lice u društvu) ili iz sopstvenog portfolija, uz digitalno potpisano punomoćje od strane davaoca punomoćja.
+Ukoliko je odgovorno lice (davalac punomoćja) nerezident, potrebno je da fizičkom licu - rezidentu, koje je upisano u Centralni registar stanovništva (CRS), izda punomoćje u papirnom obliku, ovjereno u skladu sa zakonom. Lice koje je dobilo punomoćje dužno je da isto digitalizuje kod notara. Opunomoćeno fizičko lice – rezident, tako digitalizovano punomoćje, učitava prilikom podnošenja zahtjeva za evidenciju ovlašćenog lica iz sopstvenog portfolija. 
+Podneseni zahtjevi obrađuju se od strane nadležnih službenika Poreske uprave.
+Elektronske usluge portala za poreske obveznike (CROO)
+- Odgovorno lice – rezident (evidentirano u Centralnom registru stanovništva)
+U slučaju kada je odgovorno lice poreskog obveznika rezident, odnosno lice evidentirano u Centralnom registru stanovništva, zahtjev za dodjelu, izmjenu ili ukidanje ovlašćenja može podnijeti isključivo to lice, putem portfolija poreskog obveznika.
+Tipovi ovlašćenja „interno“ i „ugovorno“ ne zahtijevaju dostavljanje pisanog ovlašćenja kao obaveznog priloga. Prilikom dodjele ovlašćenja tipa „ostalo“ potrebno je priložiti digitalno potpisano ovlašćenje, ovjereno kod suda, notara ili organa lokalne samouprave. Ovlašćenje daje poreski obveznik fizičkom licu koje nema registrovanu samostalnu djelatnost. Prilikom ukidanja ovlašćenja tipa „ostalo“ potrebno je priložiti digitalno potpisan akt o raskidu/ukidanju ovlašćenja, ovjeren kod suda, notara ili organa lokalne samouprave.
+Podnosilac prijave potvrđuje izjavu o odgovornosti za tačnost i vjerodostojnost podataka putem sistemske poruke:
+„Podnosilac prijave je materijalno i krivično odgovoran za tačnost dodijeljenih ovlašćenja, kao i za vjerodostojnost i ispravnost učitanih podataka.“
+Podneseni zahtjevi obrađuju se automatski, u realnom vremenu.
+- Odgovorno lice – nerezidenti (lica koja nijesu evidentirana u Centralnom registru stanovništva)
+Za poreske obveznike kod kojih odgovorna lica nijesu evidentirana u Centralnom registru stanovništva (npr. nerezidenti bez boravka u Crnoj Gori), primjenjuje se poseban postupak. U tim slučajevima prijavu podnosi ovlašćeno lice za zastupanje, iz sopstvenog portfolija, uz obavezno dostavljanje digitalno potpisanog ovlašćenja kao priloga od strane ovlašćenog lica za zastupanje (podnosioca prijave), a po potrebi i ovjerenog prevoda od strane sudskog tumača.
+Podneseni zahtjevi obrađuju se od strane nadležnih službenika Poreske uprave.
+Ova nadogradnja predstavlja prvi korak u širem procesu digitalizacije IRMS sistema. U narednom periodu planirano je uvođenje dodatnih elektronskih usluga, sa ciljem unapređenja efikasnosti i smanjenja administrativnih barijera za poreske obveznike.
+

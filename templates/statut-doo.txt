@@ -1,0 +1,466 @@
+STATUT
+DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU
+"{{ PUN_NAZIV }}" D.O.O.
+{{ MJESTO }}, {{ ADRESA_SEDISTA }}
+
+Na osnovu Zakona o privrednim društvima ("Sl.list RCG", br. 6/02, 17/07, 80/08, 40/10,
+36/11 i 40/11, 65/20) i Odluke o osnivanju društva "{{ PUN_NAZIV }}", osnivač društva:
+{{ IME_PREZIME }}, Lična karta br. {{ BROJ_LK }}, JMBG {{ JMBG }},
+je dana {{ DATUM }}. godine donio:
+
+
+STATUT
+DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU
+"{{ PUN_NAZIV }}" D.O.O.
+{{ MJESTO }}, {{ ADRESA_SEDISTA }}
+
+
+I - OSNOVNE ODREDBE
+
+Član 1.
+
+1.1. Statutom društva sa ograničenom odgovornošću "{{ PUN_NAZIV }}" D.O.O.
+uređuju se odnosi u radu i poslovanju Društva, a naročito:
+- firma, sjedište društva i unutrašnja organizacija,
+- djelatnost društva,
+- ukupni iznos osnovnog kapitala i način upisa i uplate uloga,
+- dioba dobiti i način snošenja rizika i pokriće gubitka,
+- izboru, opozivu i djelokrugu organa društva,
+- zastupanju,
+- rezervama,
+- način promjene oblika društva,
+- prestanak društva,
+- postupak izmjene statuta društva,
+- drugim pitanjima od značaja za rad društva.
+
+1.2. Društvo se organizuje kao društvo kapitala, oblik Društva je: Društvo sa
+ograničenom odgovornošću (u daljem tekstu: Društvo).
+
+1.3. Društvo je samostalna organizacija, ekonomska i poslovna cjelina, osnovano
+Odlukom o osnivanju društva sa ograničenom odgovornošću.
+
+
+II - PRAVNI POLOŽAJ, FIRMA I SJEDIŠTE
+
+Član 2.
+
+2.1. Društvo odgovara za svoje obaveze cjelokupnom svojom imovinom – potpuna odgovornost.
+Osnivač ne odgovara za obaveze društva, a snosi rizik za poslovanje društva do visine uloženih sredstava.
+
+2.2. Društvo ima svojstvo pravnog lica, sa pravima, obavezama i odgovornostima koje
+ima na osnovu zakona, osnivačkog akta i ovog Statuta.
+
+2.3. U pravnom prometu sa trećim licima društvo ima neograničena ovlašćenja i istupa:
+- u svoje ime i za svoj račun,
+- u svoje ime i za tuđ račun,
+- u tuđe ime i za tuđ račun.
+
+2.4. Društvo je dužno da posluje u skladu sa zakonom, dobrim poslovnim običajima i poslovnim moralom.
+
+Član 3. - Firma i sjedište
+
+3.1. Naziv firme je: "{{ PUN_NAZIV }}" D.O.O. Društvo za {{ NAZIV_DJELATNOSTI }}
+{{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+
+3.2. Skraćeni naziv firme je: "{{ SKRACENI_NAZIV }}" D.O.O. {{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+
+3.3. Adresa za prijem službene pošte je: {{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+E-mail adresa je: {{ EMAIL }}
+Kontakt telefon je: {{ TELEFON }}
+
+3.4. Sjedište društva je u {{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+Društvo će istaći firmu na poslovnim prostorijama.
+O promjenama naziva i sjedišta firme odlučuje osnivač društva.
+Promjena firme i sjedišta se prijavljuje Upravi prihoda i carina -
+Centralni registar privrednih subjekata u Podgorici.
+
+Član 4. - Pečat i štambilj
+
+4.1. Društvo ima svoj pečat i štambilj:
+Pečat je okruglog oblika i na njemu je upisan pun naziv firme.
+Štambilj je pravougaonog oblika i pored skraćenog naziva firme sadrži i mjesto za broj i datum akta.
+
+4.2. Broj pečata, način čuvanja i njihovu upotrebu utvrđuje osnivač posebnom odlukom.
+
+
+III - UNUTRAŠNJA ORGANIZACIJA DRUŠTVA
+
+Član 5.
+
+5.1. Osnivač društva, zavisno od karaktera procesa rada i uslova, organizuje rad po
+djelovima Društva. Djelovi Društva osnivaju se odlukom osnivača Društva.
+Osnivač Društva donosi odluku o promjeni unutrašnje organizacije društva.
+
+5.2. Djelovi Društva su:
+- služba zajedničkih poslova,
+- služba trgovine,
+- služba ugostiteljstva,
+- uslužna služba i sl.
+
+
+IV - DJELATNOST DRUŠTVA
+
+Član 6.
+
+6.1. Društvo će obavljati sledeće djelatnosti:
+
+{{ LISTA_SIFRI_STATUT }}
+
+6.2. Društvo će obavljati spoljnotrgovinski promet robe i usluga u okviru registrovanih
+djelatnosti. Ako se u toku rada društva ukaže potreba za proširenjem djelatnosti,
+društvo je dužno nastalu potrebu registrovati kao dopunu djelatnosti kod Uprave prihoda
+i carina - Centralni registar Privrednih subjekata u Podgorici.
+
+6.3. Pretežna djelatnost je: {{ SIFRA_DJELATNOSTI }} {{ NAZIV_DJELATNOSTI }}.
+
+Član 7.
+
+7.1. Društvo može da zaključuje ugovore i obavlja i druge poslove prometa roba i usluga
+samo u okviru djelatnosti upisanih u sudski registar. Izuzetno, društvo može, bez upisa
+u registar, da obavlja i druge djelatnosti koje služe djelatnosti upisanoj u registar,
+koje se uobičajeno obavljaju uz te djelatnosti, u manjem obimu ili povremeno.
+
+Član 8.
+
+8.1. Odluku o promjeni ili dopuni djelatnosti donosi osnivač.
+
+Član 9.
+
+9.1. Društvo obavlja i razvija svoju djelatnost razvijanjem i unapređivanjem poslovnih
+veza sa stranim i domaćim partnerima i odnosa saradnje raznim modalitetima sa drugim
+firmama uključujući i trajne kooperantske odnose.
+
+
+V - KAPITAL (SREDSTAVA) DRUŠTVA
+
+Član 10.
+
+10.1. Osnivač je obezbjedio sredstva za osnivanje i rad društva:
+
+Osnivač: {{ IME_PREZIME }} uložio je {{ IZNOS_KAPITALA }} eura.
+
+
+VI - UTVRĐIVANJE I RASPOREĐIVANJE DOBITI
+
+Član 11.
+
+11.1. Osnivač ima pravo na udio u dobiti utvrđenoj po godišnjem bilansu.
+
+Član 12.
+
+12.1. Tokom poslovne godine osnivač društva ima pravo na dividendu odnosno među dividendu,
+s tim da iznos među dividende ne prelazi 50% dobiti iz prethodne godine.
+
+Član 13.
+
+13.1. Osnivač pokriva gubitak društva saglasno Zakonu o privrednim društvima.
+
+
+VII - ORGANI DRUŠTVA
+
+Član 14.
+
+14.1. Poslove skupštine i upravnog odbora društva vrši osnivač društva.
+
+Član 15.
+
+15.1. Djelokrug osnivača kao upravljača društva je da:
+- donosi Statut društva,
+- postavlja i razrešava izvršnog direktora društva,
+- daje smjernice i uputstva za rad izvršnom direktoru,
+- utvrđuje poslovnu politiku društva,
+- utvrđuje polugodišnji i godišnji obračun društva,
+- odlučuje o raspodjeli godišnje dobiti i pokriću gubitka,
+- odlučuje o povećanju i smanjenju osnovnog kapitala,
+- odlučuje o statusnim promjenama, promjenama oblika i prestanku društva,
+- odlučuje i o drugim pitanjima utvrđenim Zakonom o privrednim društvima, osnivačkim aktom i statutom.
+
+Član 16.
+
+16.1. Osnivač je saglasan da određene odluke mogu biti punovažne samo ako su donesene
+jednoglasnošću svih članova:
+- usvajanje, odnosno izmjene statuta društva,
+- postavljanje i razrešavanje izvršnog direktora društva,
+- donošenje investicionih odluka,
+- zaključivanje dugoročnih zajmova,
+- povećanje ili smanjenje kapitala društva,
+- odobravanje bilansa imovine i bilansa uspjeha,
+- svaka prodaja, zakup ili zamjena imovine preduzeća preko iznosa od 5000,00 eura,
+- odlučivanje o statusnim promjenama i prestanku društva.
+
+Član 17.
+
+17.1. Odluke koje donose u vršenju funkcija upravljanja društvom upisuju se u knjigu
+odluka Društva, ako nijesu upisane u knjigu odluka ne proizvode pravno dejstvo.
+U knjigu odluka upisuju se: odluke o usvajanju godišnjih računovodstvenih iskaza i
+izvještaja o poslovanju, odluke o raspodjeli dobiti, odluke o povećanju i smanjenju
+osnovnog kapitala, investicione odluke, odluke o statusnim promjenama, promjeni oblika
+i prestanka društva, druge odluke značajne za vršenje funkcija upravljanja društvom.
+Knjiga odluka vodi se uredno, a podaci koji se upisuju ne smiju se mijenjati niti brisati.
+
+
+VIII - ZASTUPANJE DRUŠTVA
+
+Član 18.
+
+18.1. Društvom upravlja osnivač, sa pravima i obavezama koje po zakonu pripadaju skupštini.
+Društvo zastupa i predstavlja izvršni direktor neograničeno.
+Izvršni direktor može u okviru svojih ovlašćenja dati drugom licu ovlašćenje za zastupanje društva.
+
+Član 19.
+
+19.1. Izvršni direktor društva obavlja sledeće poslove:
+- organizuje i vodi poslovanje društva,
+- zastupa društvo,
+- stara se o zakonitosti rada društva i odgovara za zakonitost rada društva,
+- priprema i predlaže unutrašnju organizaciju društva,
+- priprema i predlaže programe rada i razvoja društva,
+- sprovodi i izvršava odluke Osnivača društva,
+- potpisuje odluke društva,
+- donosi sva opšta i pojedinačna akta, koja nijesu u nadležnosti osnivača,
+- zastupa društvo u pravnim i finansijskim poslovima pred svim nadležnim organima, sudovima,
+  bankama, privrednim društvima i drugim organizacijama,
+- zaključuje ugovore iz registrovane djelatnosti društva,
+- odlučuje o zapošljavanjima lica u društvu i zaključuje ugovor o radu,
+- odlučuje o pravima, obavezama i disciplinskoj odgovornosti zaposlenih,
+- raspoređuje zaposlene u skladu sa propisima,
+- donosi odluku o radnom vremenu, formira radne grupe, komisije, stručne timove,
+- odobrava službena putovanja u zemlji i inostranstvu,
+- podnosi izvještaje o rezultatima poslovanja po godišnjem obračunu,
+- stara se o zaštiti na radu,
+- obavlja i druge poslove utvrđene Zakonom o privrednim društvima, osnivačkim aktom i ovim Statutom.
+
+Član 20.
+
+20.1. Izvršni direktor društva je: {{ IME_PREZIME_DIREKTORA }}, Lična karta br. {{ BROJ_LK_DIREKTORA }},
+koji zastupa društvo u unutrašnjem i spoljnotrgovinskom prometu bez ograničenja, u skladu
+sa Zakonom, Odlukom o osnivanju i ovim Statutom. {{ IME_PREZIME_DIREKTORA }} je ovlašćeni zastupnik
+koji zastupa Društvo neograničeno, JMBG {{ JMBG_DIREKTORA }}.
+
+
+IX - REZERVE
+
+Član 21.
+
+21.1. Društvo ima obaveznu rezervu.
+21.2. U obaveznu rezervu svake godine od dobiti društva se unosi najmanje 50% dok rezerva
+ne dostigne utvrđenu srazmjeru prema osnovnom kapitalu, a najmanje 10% osnovnog kapitala.
+21.3. Ako se obavezna rezerva iz stava 2 ovog člana smanji, mora se dopuniti do propisanog iznosa.
+21.4. Društvo može imati posebnu rezervu saglasno zakonu, o čemu odlučuje osnivač.
+
+
+X - PROMJENA OBLIKA DRUŠTVA
+
+Član 22.
+
+22.1. Društvo može promijeniti oblik u drugi oblik ako ispunjava uslove za osnivanje tog
+oblika utvrđene Zakonom o privrednim društvima.
+22.2. Odluku o promjeni oblika društva donosi osnivač.
+22.3. Društvu može da pristupi još jedan ili više suosnivača, pod uslovima koje odredi
+osnivač u skladu sa Zakonom.
+
+
+XI - POSLOVNA TAJNA
+
+Član 23.
+
+23.1. U interesu očuvanja bezbjednosti i uspješnog privređivanja, pojedini podaci o poslovanju,
+razvoju i odnosima u društvu, predstavljaju poslovnu tajnu i mogu se saopštavati trećim
+licima samo na način propisan Zakonom, ovim Statutom i drugim opštim aktom, kao i Odlukom o osnivanju.
+
+Član 24.
+
+24.1. Poslovnom tajnom smatraju se isprave i podaci koji predstavljaju tajnu proizvodnje,
+rezultati istraživačkog rada i druge isprave i podaci čije bi saopštavanje neovlašćenim
+licima, zbog njihove prirode, značaja i karaktera bilo protivno interesima društva.
+
+Član 25.
+
+25.1. Opštim aktom o poslovnoj i drugoj tajni, saglasno odredbama ovog Statuta i Odluke o
+osnivanju bliže se određuje način rukovanja dokumentima i podacima koji predstavljaju poslovnu
+tajnu, uslove i postupak čuvanja poslovne tajne, mjere za povrede obaveza čuvanja poslovne
+tajne i druga pitanja od interesa za čuvanje poslovne tajne.
+
+
+XII - PRESTANAK DRUŠTVA
+
+Član 26.
+
+26.1. Društvo prestaje:
+- ako mu je izrečena mjera zabrane obavljanja djelatnosti zbog toga što ne ispunjava
+  uslove za obavljanje djelatnosti a u roku određenom u izrečenoj mjeri ne ispuni te uslove
+  odnosno ne promijeni djelatnost,
+- ako prestanu da postoje prirodni i drugi uslovi za obavljanje djelatnosti,
+- odlukom osnivača,
+- ako se pravosnažnom odlukom suda utvrdi ništavnost upisa u registar,
+- ako ne obavlja djelatnost duže od dvije godine neprekidno,
+- stečajem,
+- ako se osnovni kapital društva smanji ispod minimalnog iznosa kapitala propisanog Zakonom,
+- spajanjem sa drugim preduzećem ili podjelom društva,
+- u drugim slučajevima predviđenim Zakonom.
+
+
+XIII - POSTUPAK IZMJENE STATUTA
+
+Član 27.
+
+27.1. Izmjene i dopune ovog Statuta, mogu se vršiti samo odlukom osnivača u skladu sa Zakonom.
+27.2. Predlog za izmjene i dopune Statuta mogu dati osnivač i direktor Društva.
+27.3. Opšti akti Društva su: Statut, Pravilnik i odluke kojima se na opšti način uređuju
+određena pitanja.
+
+
+XIV - OSNOVNA MJERILA ZA RASPODJELU SREDSTAVA ZA PLATE
+
+Član 28.
+
+28.1. Radniku u društvu pripada plata po osnovu tekućeg rada a koja mu služi za zadovoljenje
+njegovih ličnih potreba, kao i za zadovoljenje zajedničkih i opštih društvenih potreba koje
+se podmiruju iz njegove plate.
+
+Član 29.
+
+29.1. Plata svakog radnika se utvrđuje prema rezultatima njegovog rada i prema njegovom
+ličnom doprinosu, koji je svojim tekućim i minulim radom dao povećanju dohotka društva,
+a u skladu sa načelima raspodjele prema radu.
+29.2. Pri utvrđivanju vrijednosti rada i ostvarenih rezultata rada, uzima se u obzir složenost
+posla, uslovi rada, odgovornost, potrebno radno iskustvo, obim, kvalitet, ostvarene uštede i drugi pokazatelji.
+
+Član 30.
+
+30.1. Opštim aktom utvrdiće se:
+- način utvrđivanja mase sredstava za plate radnika i naknade,
+- osnovi i mjerila za raspodjelu sredstava po osnovu tekućeg i minulog rada,
+- način obračuna i isplate akontacije plate, njihov konačan obračun i dr.
+
+Član 31.
+
+31.1. Za podmirivanje svih zajedničkih potreba u društvu se koriste sredstva zajedničke
+potrošnje i to:
+- za rešavanje stambenih pitanja,
+- regres za korišćenje godišnjeg odmora,
+- stručno osposobljavanje kadrova,
+- davanje otpremnine prilikom odlaska radnika u penziju,
+- pomoć u slučaju smrti radnika ili člana njegove porodice,
+- solidarne pomoći bolesnim radnicima i dr.
+
+31.2. Opštim aktom utvrdiće se uslovi i način korišćenja sredstava zajedničke potrošnje.
+
+Član 32.
+
+32.1. Opštim aktom, kolektivnim ugovorom, na osnovu Zakona uredit će se konkretni odnosi
+u vezi sticanja i raspodjele sredstava za plate, zajedničku potrošnju i druga davanja.
+
+
+XV - PRAVA, OBAVEZE I ODGOVORNOST U OSTVARENjU MEĐUSOBNIH RADNIH ODNOSA U DRUŠTVU
+
+Član 33.
+
+33.1. U društvu se kolektivnim ugovorom i opštim aktom, utvrđuju međusobna prava, obaveze
+i odgovornosti u radu, naročito: uslovi i način zasnivanja radnog odnosa, ostvarivanje prava,
+obaveze i odgovornosti iz međusobnih radnih odnosa, prijem pripravnika, ostvarivanje zaštite
+na radu, disciplinska i materijalna odgovornost radnika i druga pitanja.
+
+Član 34.
+
+34.1. Aktima iz člana 33 ovog Statuta, bliže se utvrđuju:
+- poslovi i radni zadaci na koje se mogu primati radnici na određeno vrijeme, po kojem
+  postupku i dr.,
+- poslovi i radni zadaci za koje se probnim radom vrši provjera stručnih i drugih radnih
+  sposobnosti radnika prije zasnivanja radnog odnosa,
+- kriterijumi, uslovi i postupak zasnivanja radnog odnosa sa pripravnicima,
+- postupak raspisivanja i sprovođenja oglasa, izbor kandidata, saopštavanje rezultata oglasa i dr.
+
+Član 35.
+
+35.1. Radnici opštim aktom uređuju sva pitanja iz oblasti zaštite na radu, a što podrazumjeva
+da u procesu rada stvaraju uslove koji obezbjeđuju zdravstvenu, higijensko-tehničku i drugu
+zaštitu na radu i da se pridržavaju propisanih mjera u pogledu radnih i poslovnih prostorija,
+te da obezbjede zaštitu od drugih štetnih uticaja na njihovu zdravstvenu i radnu sposobnost.
+
+Član 36.
+
+36.1. U društvu, radnici su međusobno i lično odgovorni za savjesno izvršavanje radnih
+obaveza u radnom odnosu.
+36.2. Radnik odgovara za povredu radnih obaveza i druge povrede radne discipline učinjene
+sopstvenom krivicom.
+36.3. U društvu za učinjene povrede, radnik odgovara disciplinski i materijalno.
+
+Član 37.
+
+37.1. Za povredu radnih obaveza i druge povrede radne discipline, radniku se mogu izreći
+mjere utvrđene Zakonom.
+
+Član 38.
+
+38.1. Izvršni direktor društva za učinjenu povredu radne obaveze izriče mjere:
+- javnu opomenu, novčanu kaznu i mjeru prestanka radnog odnosa.
+
+Član 39.
+
+39.1. Opštim aktom društva, bliže će se regulisati disciplinska i materijalna odgovornost radnika.
+
+
+XVI - ZAŠTITA ŽIVOTNE SREDINE
+
+Član 40.
+
+40.1. Osnivač je dužan da u društvu organizuje obavljanje djelatnosti kojom se osigurava
+bezbjednost na radu, kao i da sprovodi potrebne mjere zaštite na radu i zaštitu životne
+sredine saglasno zakonskim propisima koji regulišu ovu materiju.
+
+Član 41.
+
+41.1. Mjere zaštite životne sredine obuhvataju: primjenu savremenih tehničko-tehnoloških
+rješenja koja obezbjeđuju sprečavanje, odnosno otklanjanje zagađivanja životne i radne sredine,
+otklanjanje uzroka koji dovode do otežavanja uslova rada i sl.
+
+
+XVII - INFORMISANJE RADNIKA
+
+Član 42.
+
+42.1. Izvršni direktor društva je dužan da radnike i osnovnu organizaciju sindikata obavještava
+o svim pitanjima neophodnim za rad društva, o cjelokupnom poslovanju društva, o sticanju i
+raspodjeli dohodaka i sredstava za plate, o materijalnom i finansijskom stanju i dr.
+
+
+XVIII - ORGANIZACIJA SINDIKATA
+
+Član 43.
+
+43.1. U društvu se organizuje i sindikalna organizacija radnika.
+
+
+XIX - ZAVRŠNE ODREDBE
+
+Član 44.
+
+44.1. Za sve što nije regulisano ovim Statutom, primjenjivaće se odredbe Zakona o privrednim
+društvima i drugih propisa koji regulišu ovu materiju.
+
+Član 45.
+
+45.1. Pojedina pitanja iz rada društva osnivač će urediti posebnim odlukama (aktima).
+
+Član 46.
+
+46.1. Društvo se osniva na neodređeno vrijeme.
+
+Član 47.
+
+47.1. Ovaj Statut stupa na snagu danom donošenja.
+
+
+{{ MJESTO }}, {{ DATUM }}
+
+
+OSNIVAČ:
+
+________________________________
+{{ IME_PREZIME }}
+Lična karta br. {{ BROJ_LK }}
+JMBG {{ JMBG }}
+
+
+{{ NOTARSKA_OVJERA }}

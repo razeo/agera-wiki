@@ -1,0 +1,298 @@
+{{ PRAVNI_OSOV }}
+ODLUKA
+O OSNIVANJU DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU
+
+Član 1. - Osnivanje društva
+
+Fizičko lice, i to: {{ IME_PREZIME }}, Lična karta br. {{ BROJ_LK }}, JMBG {{ JMBG }},
+je osnivač DRUŠTVA {{ PUN_NAZIV }} D.O.O. {{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+
+Društvo se organizuje kao Društvo kapitala, oblik Društva je: Društvo ograničene odgovornosti
+(u daljem tekstu: Društvo).
+
+Član 2. - Vrijeme trajanja
+
+Društvo se osniva na neodređeno vrijeme.
+
+Član 3. - Zakonitost poslovanja
+
+Društvo je dužno da posluje u skladu sa zakonom, dobrim poslovnim običajima i poslovnim moralom.
+Osnivač ne može sa svojim Društvom zaključiti ugovor o kreditu, kauciji, garanciji, avansu ili jemstvu.
+
+Član 4. - Firma i sjedište
+
+Pun naziv firme glasi: {{ PUN_NAZIV }} D.O.O. {{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+
+Član 5. - Skraćeni naziv
+
+Skraćeni naziv firme glasi: {{ SKRACENI_NAZIV }} D.O.O. {{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+
+Član 6. - Sjedište
+
+Sjedište društva je u {{ MJESTO }}, {{ ADRESA_SEDISTA }}.
+Društvo će istaći firmu na poslovnim prostorijama.
+O promjeni naziva i sjedišta firme odlučuje osnivač.
+Adresa za prijem službene pošte i zvaničnih dopisa je {{ ADRESA_SEDISTA }}.
+E-mail adresa je: {{ EMAIL }}.
+Kontakt telefon: {{ TELEFON }}.
+
+Član 7. - Pečat i štambilj
+
+Društvo ima svoj pečat i štambilj:
+Pečat je okruglog oblika i na njemu je ispisan pun naziv firme.
+Štambilj je pravougaoni i pored skraćenog naziva firme sadrži i mjesto za broj i datum akta.
+Broj pečata, način čuvanja i njihovu upotrebu utvrđuje direktor, posebnom odlukom.
+
+Član 8. - Ovlašćenja u pravnom prometu
+
+U pravnom prometu sa trećim licima Društvo ima neograničena ovlašćenja i istupa:
+- u svoje ime i za svoj račun,
+- u svoje ime i za tuđ račun,
+- u tuđe ime i za tuđ račun.
+
+Član 9. - Odgovornost
+
+Društvo za obaveze u pravnom prometu sa trećim licima odgovara cjelokupnom svojom imovinom.
+Osnivač ne odgovara za obaveze Društva, a snosi rizik poslovanja do visine uloga.
+
+Član 10. - Djelatnost društva
+
+Društvo će obavljati sledeće djelatnosti:
+
+{{ LISTA_SIFRI_DJELATNOSTI }}
+
+Pretežna djelatnost koju će obavljati privredno društvo je: {{ SIFRA_DJELATNOSTI }} {{ NAZIV_DJELATNOSTI }}.
+
+Član 11. - Ostali poslovi
+
+Društvo može da zaključuje ugovore i obavlja i druge poslove prometa roba i usluga,
+samo u okviru djelatnosti upisanih u sudski registar. Izuzetno, Društvo može, bez upisa
+u Registar, da obavlja i druge djelatnosti koje služe djelatnosti upisanoj u registar,
+koje se uobičajeno obavljaju uz te djelatnosti, u manjem obimu ili privremeno.
+
+Član 12. - Promjena djelatnosti
+
+Odluku o promjeni djelatnosti Društva donosi osnivač.
+Odluka se donosi u pismenoj formi i prijavljuje se Centralnom registru privrednih subjekata.
+
+Član 13. - Poslovna saradnja
+
+Društvo obavlja i razvija svoju djelatnost razvijanjem i unapređivanjem poslovnih
+veza sa stranim i domaćim partnerima, i odnosa saradnje raznim modalitetima sa
+drugim firmama uključujući i trajne kooperantske odnose.
+
+Član 14. - Kapital (sredstva) društva
+
+Osnivač obezbjeđuje sredstva za osnivanje i rad Društva u iznosu od {{ IZNOS_KAPITALA }} eura.
+{{ IME_PREZIME }} uložio je {{ IZNOS_KAPITALA }} eura.
+
+Član 15. - Ulozi
+
+Ulozi u Društvu ne mogu biti u radu i uslugama.
+Društvo ne može sticati sopstveni udio niti ga može povlačiti. Društvo može sticati
+sopstvene udjele besplatno i na osnovu pravnog sljedbeništva.
+
+Član 16. - Knjiga osnivača
+
+U Društvu se vodi knjiga članova Društva u skladu sa zakonom.
+
+Član 17. - Pravni odnos između društva i članova
+
+Član Društva ne može se osloboditi obaveza unošenja uloga u imovini Društva.
+Član Društva ne može svoju obavezu unošenja uloga prebiti sa potraživanjima od Društva.
+Udio koji se stiče na osnovu uloga može pripadati jednom licu ili većem broju lica.
+Ako su više lica vlasnici jednog udjela, ta lica se u odnosu na Društvo smatraju jednim
+članom i svoja prava ostvaruju preko zajedničkog predstavnika, a za obaveze koje terete
+člana odgovaraju solidarno.
+Društvo može članu Društva kao udio izdati potvrdu o udjelu.
+Potvrda nema svojstvo hartije od vrijednosti. Potvrda glasi na ime.
+
+Član 18. - Sporedne činidbe
+
+Član Društva može preduzeti obavezu ispunjenja i sporednih činidbi.
+
+Član 19. - Dopunske uplate
+
+Članovi Društva mogu utvrditi obavezu dopunskih uplata za članove Društva i visinu tih
+uplata. Dopunske uplate ne uvećavaju ulog i udio članova kao ni osnovni kapital.
+Odluka se donosi u pismenoj formi. Dopunske uplate se određuju srazmjerno ulozima.
+Obavezu dopunske uplate član ne može prebiti sa potraživanjem od Društva.
+
+Član 20. - Vraćanje dopunskih uplata
+
+Članovima Društva mogu se vratiti dopunske uplate, koje ne služe za pokriće osnovnog
+kapitala u slučaju gubitka, ali ne prije isteka roka od 30 dana, od dana obavještavanja
+odluke o vraćanju. Vraćene dopunske uplate smatraju se kao da nisu bile uplaćene.
+
+Član 21. - Prenos udjela
+
+Udio se može prenositi, osim u slučajevima predviđenim Zakonom.
+
+Član 22. - Prenos u izvršnom postupku
+
+Prenos u izvršnom postupku, izvršiće se u skladu sa pravilima izvršnog postupka i Zakona.
+
+Član 23. - Nasleđivanje udjela
+
+Smrću ili prestankom člana Društva udio se prenosi na naslednika ili pravnog sljedbenika.
+Naslednik ili pravni sljedbenik, sticajem udjela postaje član Društva.
+Naslednik ili pravni sljedbenik može udio prodati ili povući.
+Ako naslednik ili pravni sljedbenik povlači udio, udio se povlači uz naknadu njegove
+vrijednosti u skladu sa odredbama o smanjenju osnovnog kapitala. U tom slučaju pokreće
+se redovna likvidacija Društva, kod Uprave prihoda i carina - Centralni registar privrednih subjekata.
+
+Član 24. - Postupak prenosa
+
+U slučaju prenosa udjela, za obaveze iz članskog odnosa, Društvo solidarno odgovaraju
+prenosilac i sticalac udjela. Prenos udjela povlači izmjenu odluke. Udio se prenosi
+Ugovorom u pismenoj formi.
+Sticalac udjela obavezan je da prijavi Društvu promjenu vlasnika i vrijeme promjene
+radi upisa u knjigu članova Društva.
+Prenos udjela ima pravno dejstvo prema Društvu od momenta upisa prenosa u knjigu članova Društva.
+
+Član 25. - Dijela udjela
+
+Udio se može podijeliti u slučaju nasljeđivanja, pravnog sljedbeništva člana i prenosa.
+Na prenos udjela primjenjuju se odredbe zakona o prenosu udjela.
+
+Član 26. - Zastupanje društva
+
+Društvo zastupa i predstavlja izvršni direktor neograničeno.
+Izvršni direktor može u okviru svojih ovlašćenja dati drugom licu ovlašćenje za zastupanje Društva.
+
+Član 27. - Prokura
+
+Izvršni direktor Društva može, uz saglasnost osnivača, određenom licu dati prokuru.
+Davanje prokure se upisuje u Registar suda. Prestanak prokure prijavljuje se sudu u roku
+od 3 dana, od dana prestanka ovlašćenja. Prokura može biti pojedinačna.
+
+Član 28. - Organi društva
+
+Poslove skupštine i upravnog odbora Društva vrši osnivač Društva.
+
+Član 29. - Nadležnost osnivača
+
+Djelokrug osnivača kao upravljača Društva je da:
+- donosi statut Društva,
+- postavlja i razrešava izvršnog Direktora Društva,
+- utvrđuje poslovnu politiku Društva,
+- utvrđuje polugodišnji i godišnji obračun Društva,
+- odlučuje o raspodjeli godišnje dobiti i pokriću gubitka,
+- odlučuje o povećanju i smanjenju osnovnog kapitala,
+- odlučuje o statusnim promjenama, promjeni oblika i prestanku Društva,
+- odlučuje i o drugim pitanjima utvrđenim Zakonom, osnivačkim aktom i statutom.
+
+Član 30. - Izvršni direktor
+
+Izvršni direktor Društva je: {{ IME_PREZIME_DIREKTORA }}, Lična karta br. {{ BROJ_LK_DIREKTORA }}.
+Koji zastupa Društvo u unutrašnjem i spoljnotrgovinskom prometu, bez ograničenja,
+u skladu sa ovom Odlukom, Statutom i Zakonom.
+
+Član 31. - Mandat direktora
+
+Društvom rukovodi izvršni direktor Društva.
+Osnivač postavlja izvršnog direktora Društva.
+Mandat izvršnog direktora traje {{ MANDAT_TRAJANJE }} godine i nije ograničen broj mandata.
+Izvršni direktor može biti smijenjen i prije isteka roka.
+
+Član 32. - Poslovi izvršnog direktora
+
+Izvršni direktor Društva:
+- organizuje i vodi poslovanje Društva,
+- zastupa Društvo,
+- stara se o zakonitosti rada Društva i odgovara za zakonitost rada Društva,
+- obavlja i druge poslove utvrđene Zakonom o privrednim društvima, osnivačkim aktom i statutom.
+
+Član 33. - Utvrđivanje i raspoređivanje dobiti
+
+Dobit pripada osnivaču.
+Raspodjela dobiti vrši se po godišnjem obračunu.
+Odluku o raspodjeli donosi osnivač.
+Način raspodjele reguliše se Statutom.
+Gubitak pokriva osnivač do visine osnivačkog kapitala uplaćenog u novcu.
+Osnivač je saglasan da učešće u raspodjeli dohodka, dobiti i pokrića gubitka bude
+srazmjerno procentualnom učešću u osnivačkom ulogu.
+
+Član 34. - Pokriće gubitka
+
+Osnivač pokriva gubitak Društva saglasno Zakonu o privrednim društvima.
+
+Član 35. - Promjena oblika društva
+
+Društvo može da promijeni oblik u drugi oblik ako ispunjava uslove za osnivanje tog
+oblika utvrđene Zakonom o privrednim društvima.
+Odluku o promjeni oblika Društva donosi osnivač.
+Društvu može da pristupi još jedan ili više suosnivača u skladu sa Zakonom.
+
+Član 36. - Poslovna tajna
+
+U interesu očuvanja bezbjednosti i uspješnog privređivanja, pojedini podaci o poslovanju,
+razvoju i odnosima u Društvu, predstavljaju poslovnu tajnu i mogu se saopštavati trećim
+licima na način propisan Zakonom, ovom odlukom i drugim opštim aktom, kao i statutom Društva.
+
+Član 37. - Sadržina poslovne tajne
+
+Poslovnom tajnom smatraju se isprave i podaci koji predstavljaju tajnu proizvodnje,
+rezultati istraživačkog rada i druge isprave i podaci čije bi saopštavanje neovlašćenim
+licima, zbog njihove prirode, značaja i karaktera bilo protivno interesima Društva.
+
+Član 38. - Zaštita poslovne tajne
+
+Opštim aktom o poslovnoj i drugoj tajni, saglasno odredbama ove Odluke i Statutom
+bliže se određuje način rukovanja dokumentima i podacima koji predstavljaju poslovnu tajnu,
+uslove i postupak čuvanja poslovne tajne, mjere za povrede obaveza čuvanja poslovne tajne
+i druga pitanja od interesa za čuvanje poslovne tajne.
+
+Član 39. - Zaštita životne sredine
+
+Osnivač je dužan da u Društvu organizuje obavljanje djelatnosti kojom se osigurava
+bezbjednost na radu, kao i da sprovodi potrebne mjere zaštite na radu i zaštitu životne
+okoline saglasno zakonskim propisima koji regulišu ovu materiju.
+
+Član 40. - Završne odredbe
+
+Za sve što nije regulisano ovom Odlukom, primjenjivaće se odredbe Statuta Društva,
+Zakona o privrednim društvima i drugi propisi koji regulišu ovu materiju.
+
+Član 41. - Prava i obaveze radnika
+
+Prava i obaveze radnika u Društvu regulišu se normativnim aktima, u skladu sa Zakonom
+i Kolektivnim ugovorom.
+
+Član 42. - Posebni akti
+
+Pojedina pitanja iz rada Društva osnivač će urediti posebnim aktima.
+
+Član 43. - Statut
+
+Osnivač Društva donosi Statut Društva u skladu sa Zakonom.
+
+Član 44. - Prestanak rada društva
+
+Društvo sa radom prestaje:
+- odlukom osnivača o prestanku rada Društva,
+- i u drugim slučajevima predviđenim zakonom.
+
+Član 45. - Likvidacija
+
+U slučaju likvidacije Društva, iz imovine Društva koja preostaje poslije namirenja
+povjeriaca, prvo se vraćaju dopunske uplate a preostali dio se vraća osnivaču.
+
+Član 46. - Početak rada
+
+Društvo počinje sa radom nakon upisa kod nadležne Uprave prihoda i carina -
+Centralni registar Privrednih subjekata u Podgorici.
+
+
+{{ MJESTO }}, {{ DATUM }}
+
+
+OSNIVAČ:
+
+____________________________
+{{ IME_PREZIME }}
+Lična karta br. {{ BROJ_LK }}
+JMBG {{ JMBG }}
+
+
+{{ NOTARSKA_OVJERA }}
