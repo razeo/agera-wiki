@@ -192,13 +192,7 @@ KNJIGOVODSTVENI KONCEPTI:
 15. amortizacija.md - Metode, stope, knjiženje, poreski tretman
 16. rezervisanja.md - Vrste, knjiženje, uslovne obaveze
 
-UKUPNO: +6 novih stranica
-
-
-## [2026-04-23] create | Paperless NGX klasifikacija — wiki integracija
-- Kreiran koncept: concepts/paperless-ngx-klasifikacija.md
-- Ažurirano 11 postojećih entiteta sa PIB, ulogom i wikilinkovima ka Paperless konceptu
-- Kreirano 6 novih entiteta: BG GRADNJA, HART, HERCEG GRADNJA (klijenti bez PIB), BASIC, MINIKO, ROLE INŽENJERING (dobavljači)
-- Ažuriran index.md sa Paperless NGX sekcijom
-- Tag paperless dodat svim relevantnim entitetima
-- Namjera: prebacivanje detaljne Paperless memorije u wiki, memorija služi samo za kratke reference
+   195|UKUPNO: +6 novih stranica
+   196|
+   197|
+   205|
